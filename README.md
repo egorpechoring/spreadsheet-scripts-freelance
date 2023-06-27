@@ -42,5 +42,5 @@ The script's implementation has resulted in substantial reductions in material w
 - Instead of solving combination task, employee simply fills yellow fields and receives the optimal combinations.
 ![plot](/nesting-script/workscreen.png)
 
--Output could be viewed or printed in more friendly way.
+- Output could be viewed or printed in more friendly way.
 ![plot](/nesting-script/toprintscreen.png)
